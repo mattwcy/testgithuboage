@@ -1,6 +1,6 @@
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](http://mattwcy.github.io).
+[Link to another page](https://mattwcy.github.io).
 
 # 123
 
